@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Geovanna 💖</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas 💻 <br>
+  Estudante de Ciencia da Computação 💻 <br>
   Apaixonada por tecnologia e aprendizado contínuo 🌸 <br>
   Desenvolvendo com C, HTML, CSS e SQL, sempre em busca de melhorar!
 </p>
