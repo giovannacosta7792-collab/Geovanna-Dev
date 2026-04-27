@@ -43,6 +43,11 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 | Projeto | Descrição | Link |
 |--------|----------|------|
 | Site Institucional | Projeto com HTML E CSS | [Ver Projeto](https://github.com/thaisnovaess/Projeto_DesignProfissional) |
+
+### 🗃️ PROJETO COM IA
+| Projeto | Descrição | Link |
+|--------|----------|------
+| SiTE COM IA | Criado com objetivo de teste para recriar um site já existente | [Ver Projeto](https://github.com/giovannacosta7792-collab/PROJETO-COM-IA) |
  
 ---
  
