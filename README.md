@@ -37,7 +37,7 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 ### 🗃️ HTML E CSS
 | Projeto | Descrição | Link |
 |--------|----------|------
-| SiTE DE AUTOPEÇAS |  | [Ver Projeto](https://github.com/CauanDev00/ProjetoMecanica) |
+| SiTE DE AUTOPEÇAS | Criado com objetivo de melhorar o site antigo da empresa | [Ver Projeto](https://github.com/CauanDev00/ProjetoMecanica) |
  
 ### 💻 Desenvolvimento Web
 | Projeto | Descrição | Link |
