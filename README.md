@@ -1,19 +1,19 @@
-# Giovana [Seu Sobrenome]
+# Geovanna Cristina
 > Estudante de Tecnologia da Informação
  
 ---
  
 ## 📫 Contato
-- LinkedIn: SEU_LINKEDIN_AQUI  
-- Email: SEU_EMAIL_AQUI  
-- Currículo: LINK_DO_CURRICULO  
+- LinkedIn:(https://www.linkedin.com/in/geovanna-costa-53a731303/)
+- Email: giovannacosta7792@gmail.com  
+- Currículo: .  
  
 ---
  
 ## 👩‍💻 Sobre mim
 Atualmente estudo Tecnologia da Informação e tenho interesse em desenvolvimento de software. Estou aprendendo através de projetos práticos e acadêmicos.
  
-- Habilidades: HTML, CSS, JavaScript básico  
+- Habilidades: HTML, CSS, JavaScript básico, SQL básico, C e PHYTON  
 - Soft skills: Comunicação, organização e trabalho em equipe  
  
 ---
@@ -22,18 +22,20 @@ Atualmente estudo Tecnologia da Informação e tenho interesse em desenvolviment
 - HTML  
 - CSS  
 - JavaScript  
-- MySQL  
+- MySQL
+- Phyton
+- C 
  
 ---
  
 ## 📂 Projetos
  
-### 🗃️ Banco de Dados
+### 🗃️ HTML E CSS
 **Sistema de Concessionária**  
 Modelagem de banco de dados com SQL  
 👉 ./modelagem-banco-dados-01/
  
-### 💻 Desenvolvimento Web
+### 💻 Design Profissional
 **Site Institucional**  
 Projeto simples usando HTML, CSS e JS  
 👉 ./desenvolvimento-web-01/
