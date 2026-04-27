@@ -36,32 +36,14 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
  
 ### 🗃️ HTML E CSS
 | Projeto | Descrição | Link |
-|--------|----------|------|
-| SiTE DE AUTOPEÇAS |  | [Ver Projeto](./modelagem-banco-dados-01/) |
+|--------|----------|------
+| SiTE DE AUTOPEÇAS |  | [Ver Projeto]([./modelagem-banco-dados-01/](https://github.com/CauanDev00/ProjetoMecanica)) |
  
 ### 💻 Desenvolvimento Web
 | Projeto | Descrição | Link |
 |--------|----------|------|
-| Site Institucional | Projeto com HTML E CSS | [Ver Projeto](./desenvolvimento-web-01/) |
+| Site Institucional | Projeto com HTML E CSS | [Ver Projeto](https://github.com/thaisnovaess/Projeto_DesignProfissional) |
  
 ---
  
-## 📁 Estrutura do Repositório
-## 📂 Projetos
- 
-### 🗃️ HTML E CSS
-**Sistema de Concessionária**  
-Modelagem de banco de dados com SQL  
-👉 ./modelagem-banco-dados-01/
- 
-### 💻 Design Profissional
-**Site Institucional**  
-Projeto simples usando HTML, CSS e JS  
-👉 ./desenvolvimento-web-01/
- 
----
- 
-## 📁 Estrutura
-- README.md  
-- modelagem-banco-dados-01/  
-- desenvolvimento-web-01/  
+
