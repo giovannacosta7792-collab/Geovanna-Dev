@@ -1,5 +1,5 @@
 # Geovanna Cristina
-> Estudante de Tecnologia da Informação
+> Estudante de Ciência da Computação
  
 ---
  
@@ -11,7 +11,7 @@
 ---
  
 ## 👩‍💻 Sobre mim
-Atualmente estudo Tecnologia da Informação e tenho interesse em desenvolvimento de software. Estou aprendendo através de projetos práticos e acadêmicos.
+Atualmente estudo Ciência da Computação e tenho interesse em desenvolvimento de software. Estou aprendendo através de projetos práticos e acadêmicos.
  
 - Habilidades: HTML, CSS, JavaScript básico, SQL básico, C e PHYTON  
 - Soft skills: Comunicação, organização e trabalho em equipe  
