@@ -33,6 +33,8 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 ---
  
 ## 📂 Portfólio de Projetos
+
+### <3 inteligência artificial
  
 ### 🗃️ HTML E CSS
 | Projeto | Descrição | Link |
@@ -53,7 +55,18 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 | Projeto | Descrição | Link |
 |--------|----------|------
 | SiTE COM IA | Criado com objetivo de teste para recriar um site já existente | [Ver Projeto](https://github.com/giovannacosta7792-collab/DevMentor-Live)  |
- 
+
+ ### 🗃️ CORRIDA DO PROMPT
+| Projeto | Descrição | Link |
+|--------|----------|------
+| SiTE COM IA | reúne criações autorais baseadas em prompts de IA | [Ver Projeto](https://github.com/giovannacosta7792-collab/Corrida-do-prompt).  |
+
+ ### 🗃️ Batalha de Modelos & Engenharia de Prompt (XML)
+| Projeto | Descrição | Link |
+|--------|----------|------
+| SiTE COM IA | Prompt estruturado em XML capaz de gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto](https://github.com/giovannacosta7792-collab/Batalha-de-Modelos-Engenharia-de-Prompt-XML-)  |
+
+
 ---
  
 
