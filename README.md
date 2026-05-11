@@ -34,37 +34,15 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
  
 ## 📂 Portfólio de Projetos
 
-### <3 inteligência artificial
- 
-### 🗃️ HTML E CSS
-| Projeto | Descrição | Link |
-|--------|----------|------
-| SiTE DE AUTOPEÇAS | Criado com objetivo de melhorar o site antigo da empresa | [Ver Projeto](https://github.com/CauanDev00/ProjetoMecanica) |
- 
-### 💻 Desenvolvimento Web
-| Projeto | Descrição | Link |
-|--------|----------|------|
-| Site Institucional | Projeto com HTML E CSS | [Ver Projeto](https://github.com/thaisnovaess/Projeto_DesignProfissional) |
+## 🤖 Inteligência Artificial & Ciência de Dados
 
-### 🗃️ PROJETO COM IA
 | Projeto | Descrição | Link |
-|--------|----------|------
-| SiTE COM IA | aplicativo de videoconferência focado em mentoria para desenvolvedores | [Ver Projeto](https://github.com/giovannacosta7792-collab/PROJETO-COM-IA) |
-
-### 🗃️ DEVMENTOR LIVE
-| Projeto | Descrição | Link |
-|--------|----------|------
-| SiTE COM IA | Criado com objetivo de teste para recriar um site já existente | [Ver Projeto](https://github.com/giovannacosta7792-collab/DevMentor-Live)  |
-
- ### 🗃️ CORRIDA DO PROMPT
-| Projeto | Descrição | Link |
-|--------|----------|------
-| SiTE COM IA | reúne criações autorais baseadas em prompts de IA | [Ver Projeto](https://github.com/giovannacosta7792-collab/Corrida-do-prompt).  |
-
- ### 🗃️ Batalha de Modelos & Engenharia de Prompt (XML)
-| Projeto | Descrição | Link |
-|--------|----------|------
-| SiTE COM IA | Prompt estruturado em XML capaz de gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto](https://github.com/giovannacosta7792-collab/Batalha-de-Modelos-Engenharia-de-Prompt-XML-)  |
+|----------|------------|------|
+| *SM1 - A Corrida do Prompt* | Repositório com estudos e práticas da aula de Engenharia de Prompt. | [Ver Projeto](#) |
+| *SM2 - Laboratório de Classificação Visual* | Estudos sobre visão computacional e classificação de imagens. | [Ver Projeto](#) |
+| *SM3 - Batalha de Modelos & Engenharia de Prompt (XML)* | Comparação entre modelos e estruturas de prompts em XML. | [Ver Projeto](#) |
+| *SM4 - Engenharia Reversa* | Estudos sobre análise e reconstrução de sistemas. | [Ver Projeto](#) |
+| *SM5 - Do Clone ao Produto Mínimo Viável (MVP+)* | Desenvolvimento de um MVP baseado em aplicações reais. | [Ver Projeto](#) |
 
 
 ---
