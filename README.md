@@ -38,7 +38,7 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| *SM1 - A Corrida do Prompt* | Repositório com estudos e práticas da aula de Engenharia de Prompt. | [Ver Projeto](#) |
+| *SM1 - A Corrida do Prompt* | Repositório com estudos e práticas da aula de Engenharia de Prompt. | [Ver Projeto](https://github.com/giovannacosta7792-collab/Corrida-do-prompt) |
 | *SM2 - Laboratório de Classificação Visual* | Estudos sobre visão computacional e classificação de imagens. | [Ver Projeto](#) |
 | *SM3 - Batalha de Modelos & Engenharia de Prompt (XML)* | Comparação entre modelos e estruturas de prompts em XML. | [Ver Projeto](#) |
 | *SM4 - Engenharia Reversa* | Estudos sobre análise e reconstrução de sistemas. | [Ver Projeto](#) |
