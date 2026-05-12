@@ -45,6 +45,7 @@ Estou evoluindo constantemente através de projetos práticos e acadêmicos.
 | *SM5 - Do Clone ao Produto Mínimo Viável (MVP+)* | Desenvolvimento de um MVP baseado em aplicações reais. | [Ver Projeto](https://github.com/giovannacosta7792-collab/PROJETO-COM-IA) |
 | *SM6 - Engenharia de Software e IA com Bubble.io* | Repositório com estudos e práticas da aula de Engenharia de Prompt (2º semestre de Ciência da Computação). | [Ver Projeto](https://github.com/giovannacosta7792-collab/Engenharia-de-Software-e-IA-com-Bubble.io) |
 | *SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi* | Repositório com estudos e práticas da aula de Engenharia de Prompt (2º semestre de Ciência da Computação). | [Ver Projeto](https://github.com/giovannacosta7792-collab/DevMentor-Live) |
+| *SM8 - Composição Musical Assistida por Inteligência Artificial* | Repositório com estudos e práticas da aula de Engenharia de Prompt (2º semestre de Ciência da Computação). | [Ver Projeto](https://github.com/giovannacosta7792-collab/Composi-o-Musical-Assistida-por-Intelig-ncia-Artificial) |
 
 
 ---
