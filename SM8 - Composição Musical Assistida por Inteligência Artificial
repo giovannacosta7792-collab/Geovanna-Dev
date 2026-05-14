@@ -1,0 +1,30 @@
+Composição-o-Musical-Assistida-por-Intelig-ncia-Artificial
+Composição Musical Assistida por Inteligência Artificial
+
+🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
+Contagem de idiomas do GitHub Tamanho do repositório do GitHub Status
+
+📝 Descrição do Projeto
+Este projeto explora a intersecção entre criatividade humana e inteligência artificial. Utilizando técnicas de RAG (Retrieval-Augmented Generation) através do Gemini Gems, foi criado um assistente especializado na análise lírica inspirada em K-pop e BTS . O objetivo final foi a produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.
+
+🛠️ Tecnologias Utilizadas
+Gemini Gems: Criação de base de conhecimento e geração de letras.
+Suno AI: Geração de áudio e arranjos instrumentais.
+GitHub: Documentação e versionamento do projeto.
+🚀 Assistente Personalizado
+O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link de configuração abaixo:
+
+Link para o meu Gemini Gems
+
+🎧 Músicas Geradas
+Não.	Título	Estilo/Referência	Link do Áudio
+01	Alvorada de Papel	K-pop acústico / Balada para piano	rã MP3
+02	Projetos para Ontem	Lo-fi K-pop / R&B relaxante	rã MP3
+03	Constelações de Vidro	Synth-pop / Hino Cinematográfico	rã MP3
+04	O Reflexo Além do lu	Balada K-pop Rock / Dramática	rã MP3
+05	Sete Cores, Um Prisma	K-pop animado / Casa Tropical	rã MP3
+📄 Processo de Criação
+Curadoria: Seleção de letras base para treinamento da persona do assistente.
+Prompt Engineering: Configuração das instruções do Gems para mimetizar o vocabulário, métrica e sentimentalismo do K-pop.
+Produção: Geração das letras e posterior conversão em áudio no Suno AI, utilizando prompts de estilo específico para cada faixa.
+Desenvolvido por [GEOVANNA CRISTINA SANTOS COSTA]
